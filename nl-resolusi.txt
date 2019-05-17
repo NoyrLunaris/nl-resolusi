@@ -2,3 +2,5 @@ nl resolusi
 - konsisten untuk membuat  konten 2x seminggu
 - membuat platform untuk pengelolaan video
 - membuat form diskusi
+- Membuat merch shop
+- Membuat berbagai fitur baru
